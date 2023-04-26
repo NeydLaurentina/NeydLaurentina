@@ -2,6 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Computational Systems Engineering<a href="http://www.unb.br"> Technological Institute of Merida</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Infra Transformation Associate <a href="https://www.thoughtworks.com">Accenture Mérida Yucatán</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
 <br />
 Hi, I'm Neydi Cauich, a passionate self-taught web developer and Infra Transformation Associate. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open source enthusiast and maintainer. I learned a lot from the open source community and I love how collaboration and knowledge sharing happened through open source.
