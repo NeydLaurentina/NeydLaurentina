@@ -35,6 +35,7 @@ const thai = {
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
 </a>
 <br /><br />
+
 ## My Skills
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
